@@ -12,8 +12,8 @@ global.headerText = "Anya by ꧁ঔৣ༒✞𝕿𝖆𝖐𝖎𝖓𝖆/𝕮𝖍�
 global.DocumentTitle = "꧁ঔৣ༒✞𝕿𝖆𝖐𝖎𝖓𝖆/𝕮𝖍𝖎𝖘𝖆𝖙𝖔✞༒ঔৣ꧂" 
 
 
-global.ownername = "꧁ঔৣ༒✞𝕿𝖆𝖐𝖎𝖓𝖆/𝕮𝖍𝖎𝖘𝖆𝖙𝖔✞༒ঔৣ꧂"   // Owner name //        
-global.ownernumber = ['491777062822'] 
+global.ownername = "꧁ঔৣ༒✞𝕿𝖆𝖐𝖎𝖓𝖆/𝕮𝖍𝖎𝖘𝖆𝖙𝖔✞༒ঔৣ꧂"Zyxo-1119"   // Owner name //        
+global.ownernumber = ['491777062822'491792911493'] 
 global.socialm = "𝗜𝗻𝘀𝘁𝗮 : ꧁ঔৣ༒✞𝕿𝖆𝖐𝖎𝖓𝖆/𝕮𝖍𝖎𝖘𝖆𝖙𝖔✞༒ঔৣ꧂" // 𝗜𝗻𝘀𝘁𝗮 : || 𝗚𝗶𝘁𝗵𝘂𝗯 : || 𝗙𝗮𝗰𝗲𝗯𝗼𝗼𝗸 : \\
 global.ytname = "YT: Ytname"   // Yt chanel name //
 global.continent = "Europa" // your continent name 
@@ -90,7 +90,7 @@ global.autoTyping = false
 //----------- Users Userlimit -----------\\
 global.userLimit = {
 premium: "Infinity",  // premium users 
-free: 12,            // Free users
+free: 100000000,            // Free users
 }
 
 
