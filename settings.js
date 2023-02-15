@@ -12,8 +12,8 @@ global.headerText = "Anya by ꧁ঔৣ༒✞𝕿𝖆𝖐𝖎𝖓𝖆/𝕮𝖍�
 global.DocumentTitle = "꧁ঔৣ༒✞𝕿𝖆𝖐𝖎𝖓𝖆/𝕮𝖍𝖎𝖘𝖆𝖙𝖔✞༒ঔৣ꧂" 
 
 
-global.ownername = "꧁ঔৣ༒✞𝕿𝖆𝖐𝖎𝖓𝖆/𝕮𝖍𝖎𝖘𝖆𝖙𝖔✞༒ঔৣ꧂"Zyxo-1119"   // Owner name //        
-global.ownernumber = ['491777062822'491792911493'] 
+global.ownername = "꧁ঔৣ༒✞𝕿𝖆𝖐𝖎𝖓𝖆/𝕮𝖍𝖎𝖘𝖆𝖙𝖔✞༒ঔৣ꧂"   // Owner name //        
+global.ownernumber = ['491777062822'] 
 global.socialm = "𝗜𝗻𝘀𝘁𝗮 : ꧁ঔৣ༒✞𝕿𝖆𝖐𝖎𝖓𝖆/𝕮𝖍𝖎𝖘𝖆𝖙𝖔✞༒ঔৣ꧂" // 𝗜𝗻𝘀𝘁𝗮 : || 𝗚𝗶𝘁𝗵𝘂𝗯 : || 𝗙𝗮𝗰𝗲𝗯𝗼𝗼𝗸 : \\
 global.ytname = "YT: Ytname"   // Yt chanel name //
 global.continent = "Europa" // your continent name 
@@ -23,7 +23,8 @@ global.district = "꧁ঔৣ༒✞𝕮𝖍𝖎𝖘𝖆𝖙𝖔✞༒ঔৣ꧂" /
 global.timezone = "Deutschland/Berlin" // search on google if you don't know the timezone of your country //
 global.instagramId = "꧁ঔৣ༒✞𝕿𝖆𝖐𝖎𝖓𝖆/𝕮𝖍𝖎𝖘𝖆𝖙𝖔✞༒ঔৣ꧂" // Your insta ID
 global.email = "eichhorsty@gmail.com" // put your email here
-
+global.moderatoername = "Zyxo-1119"  // Moderator name //
+global.moderatoernummer = ['491792911493]'
 
 //------------ 🌟 Premium Users 🌟-------------\\
 global.premium = ['916900******','917355******']  // available soon
