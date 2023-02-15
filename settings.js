@@ -16,11 +16,11 @@ global.ownername = "꧁ঔৣ༒✞𝕿𝖆𝖐𝖎𝖓𝖆/𝕮𝖍𝖎𝖘𝖆
 global.ownernumber = ['491777062822'] 
 global.socialm = "𝗜𝗻𝘀𝘁𝗮 : ꧁ঔৣ༒✞𝕿𝖆𝖐𝖎𝖓𝖆/𝕮𝖍𝖎𝖘𝖆𝖙𝖔✞༒ঔৣ꧂" // 𝗜𝗻𝘀𝘁𝗮 : || 𝗚𝗶𝘁𝗵𝘂𝗯 : || 𝗙𝗮𝗰𝗲𝗯𝗼𝗼𝗸 : \\
 global.ytname = "YT: Ytname"   // Yt chanel name //
-global.continent = "Asia" // your continent name 
-global.region = "India" // your country name
-global.state = "Assam" // your state name
+global.continent = "Europa" // your continent name 
+global.region = "Deutschland" // your country name
+global.state = "Berlin" // your state name
 global.district = "Dibrugarh" // your district name
-global.timezone = "Asia/Kolkata" // search on google if you don't know the timezone of your country //
+global.timezone = "Deutschland/Berlin" // search on google if you don't know the timezone of your country //
 global.instagramId = "꧁ঔৣ༒✞𝕿𝖆𝖐𝖎𝖓𝖆/𝕮𝖍𝖎𝖘𝖆𝖙𝖔✞༒ঔৣ꧂" // Your insta ID
 global.email = "example@exmaple.com" // put your email here
 
