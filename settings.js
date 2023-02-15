@@ -22,7 +22,7 @@ global.state = "Berlin" // your state name
 global.district = "꧁ঔৣ༒✞𝕮𝖍𝖎𝖘𝖆𝖙𝖔✞༒ঔৣ꧂" // your district name
 global.timezone = "Deutschland/Berlin" // search on google if you don't know the timezone of your country //
 global.instagramId = "꧁ঔৣ༒✞𝕿𝖆𝖐𝖎𝖓𝖆/𝕮𝖍𝖎𝖘𝖆𝖙𝖔✞༒ঔৣ꧂" // Your insta ID
-global.email = "example@exmaple.com" // put your email here
+global.email = "eichhorsty@gmail.com" // put your email here
 
 
 //------------ 🌟 Premium Users 🌟-------------\\
