@@ -24,7 +24,7 @@ global.timezone = "Deutschland/Berlin" // search on google if you don't know the
 global.instagramId = "꧁ঔৣ༒✞𝕿𝖆𝖐𝖎𝖓𝖆/𝕮𝖍𝖎𝖘𝖆𝖙𝖔✞༒ঔৣ꧂" // Your insta ID
 global.email = "eichhorsty@gmail.com" // put your email here
 global.moderatoername = "Zyxo-1119"  // Moderator name //
-global.moderatoernummer = ['491792911493' ]
+global.moderatoernummer = ['491792911493']
 
 
 //------------ 🌟 Premium Users 🌟-------------\\
