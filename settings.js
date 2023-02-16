@@ -14,8 +14,8 @@ global.DocumentTitle = "꧁ঔৣ༒✞𝕿𝖆𝖐𝖎𝖓𝖆/𝕮𝖍𝖎𝖘
 
 global.ownername = "꧁ঔৣ༒✞𝕿𝖆𝖐𝖎𝖓𝖆/𝕮𝖍𝖎𝖘𝖆𝖙𝖔✞༒ঔৣ꧂"  // Owner name //        
 global.ownernumber = ['491777062822'] 
-global.ownername = "Zyxo-1119"  // Owner name //
-global.ownernumber = ['+49 179 2911493']
+global.menegername = "Zyxo-1119"  // Menagername //
+global.menegernumber = ['491792911493']
 global.socialm = "𝗜𝗻𝘀𝘁𝗮 : ꧁ঔৣ༒✞𝕿𝖆𝖐𝖎𝖓𝖆/𝕮𝖍𝖎𝖘𝖆𝖙𝖔✞༒ঔৣ꧂" // 𝗜𝗻𝘀𝘁𝗮 : || 𝗚𝗶𝘁𝗵𝘂𝗯 : || 𝗙𝗮𝗰𝗲𝗯𝗼𝗼𝗸 : \\
 global.ytname = "YT: Ytname"   // Yt chanel name //
 global.continent = "Europa" // your continent name 
