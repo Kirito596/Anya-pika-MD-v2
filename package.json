@@ -17,7 +17,7 @@
     "bot-md",
     "multi-device"
   ],
-  "author": "Pika",
+  "author": "Kirito596",
   "license": "GPL-3.0",
   "dependencies": {
     "@adiwajshing/baileys": "^4.3.0",
@@ -88,10 +88,10 @@
   "devDependencies": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/PikaBotz/Anya-pika-MD-v2"
+    "url": "git+https://github.com/Kirito596/Anya-pika-MD-v2"
   },
   "bugs": {
-    "url": "https://github.com/PikaBotz/Anya-pika-MD-v2/issues"
+    "url": "https://github.com/Kirito596/Anya-pika-MD-v2/issues"
   },
-  "homepage": "https://github.com/PikaBotz/Anya-pika-MD-v2#readme"
+  "homepage": "https://github.com/Kirito596/Anya-pika-MD-v2#readme"
 }
